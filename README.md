@@ -1,5 +1,5 @@
 # AuraVision - Advanced Image Processing Suite 👁️✨
-
+![App Preview](preview.png)
 A modern desktop application built with Python, OpenCV, and CustomTkinter designed for digital image processing, spatial filtering, morphological transformations, and edge detection.
 
 ---
